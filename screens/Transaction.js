@@ -263,14 +263,15 @@ const styles = StyleSheet.create({
     alignItems: "center"
   },
   appIcon: {
-    width: 200,
-    height: 200,
-    resizeMode: "contain",
-    marginTop: 80
+    width: 120,
+    height: 120,
+  resizeMode: "contain",
+    
   },
   appName: {
     width: 80,
     height: 80,
+    borderColor:"red",
     resizeMode: "contain"
   },
   lowerContainer: {
